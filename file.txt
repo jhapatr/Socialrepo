@@ -10,3 +10,4 @@ To be comfortable for vim command need to practice a lot
 
 Make sure the changes of today
 
+why can not i open another file today
